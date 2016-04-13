@@ -1,3 +1,4 @@
+#!/Users/anadrich/anaconda/bin/python
 import sh
 import os 
 import glob 
